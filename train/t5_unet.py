@@ -85,7 +85,7 @@ def main(args):
     vae = AutoencoderKL.from_pretrained("CompVis/stable-diffusion-v1-4", subfolder="vae")
     vis = UNet2DConditionModel.from_pretrained("CompVis/stable-diffusion-v1-4", subfolder="unet")
     noise_scheduler = DDPMScheduler.from_pretrained("CompVis/stable-diffusion-v1-4", subfolder="scheduler")
-    tokenizer = AutoTokenizer.from_pretrained("t5-large")
+    tokenizer = AutoTokenizer.from_pretrained("t5-large") #uses a pretrained model so we just have to replace this model with our own fine tuned model
     text_encoder = T5EncoderModel.from_pretrained("t5-large")
     adapter = TextAdapter(1024, 896, 768)
 
