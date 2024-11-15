@@ -1,5 +1,5 @@
 # AdFusion
-Deep Learning research for advertisement generation.
+Research based on ad-copy and image generation.
 
 By enhancing the contextual understanding of LLMs, AdFusion aim to create a model that better grasps the intent and tone of ad copy, resulting in images that are not just relevant but also creatively aligned with the message.
 
