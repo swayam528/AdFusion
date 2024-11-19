@@ -78,16 +78,27 @@ df = pd.read_csv(path)
 The folder structure should be like this:
 
 | - - - - - - - - - Other Folders
+
 | - - - - - - - - - LaVi-Bridge
+
 | - - - - - - - - - - 1
+
 | - - - - - - - - - - - captions.txt
+
 | - - - - - - - - - - - img.jpg
+
 | - - - - - - - - - - 2
+
 | - - - - - - - - - - - captions.txt
+
 | - - - - - - - - - - - img.jpg
+
 | - - - - - - - - - - n
+
 | - - - - - - - - - - - captions.txt
+
 | - - - - - - - - - - - img.jpg
+
 | - - - - - - - - - - caption.txt (with fine tuned data)
 
 
