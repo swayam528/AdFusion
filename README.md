@@ -106,6 +106,8 @@ The folder structure should be like this:
 <!-- ## Train the model -->
 
 ## Resources
+[AdFusionPoster.pdf](https://github.com/user-attachments/files/18240835/AdFusionPoster.pdf)
+
 
 Huge thanks to these github repositories for inspiration and clarification needed for this code:
 
