@@ -106,6 +106,7 @@ The folder structure should be like this:
 <!-- ## Train the model -->
 
 ## Resources
+![image](https://github.com/user-attachments/assets/acb25cc3-6517-4d46-b956-2e6ee7ed7a72)
 [AdFusionPoster.pdf](https://github.com/user-attachments/files/18240835/AdFusionPoster.pdf)
 
 
