@@ -5,6 +5,7 @@ By enhancing the contextual understanding of LLMs, AdFusion aim to create a mode
 
 The source code for this project is currently in Google Colabs and is under development, the rest of the source code on how to put the pretrained model into LaVi-Bridge and the contents of the research paper will be uploaded here by end of November.
 
+![image](https://github.com/user-attachments/assets/acb25cc3-6517-4d46-b956-2e6ee7ed7a72)
 
 ## Fine Tuning
 
@@ -106,7 +107,7 @@ The folder structure should be like this:
 <!-- ## Train the model -->
 
 ## Resources
-![image](https://github.com/user-attachments/assets/acb25cc3-6517-4d46-b956-2e6ee7ed7a72)
+
 [AdFusionPoster.pdf](https://github.com/user-attachments/files/18240835/AdFusionPoster.pdf)
 
 
